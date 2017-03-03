@@ -1,0 +1,3 @@
+def hey
+  'hey'
+end
